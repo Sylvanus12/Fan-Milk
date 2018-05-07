@@ -1,0 +1,20 @@
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\csc.exe
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\vbc.exe
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\VBCSCompiler.exe
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\Fan Milk.dll.config
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\Fan Milk.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\Fan Milk.pdb
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\obj\Debug\Fan Milk.csprojResolveAssemblyReference.cache
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\obj\Debug\Fan Milk.dll
+c:\users\nigma\documents\visual studio 2015\Projects\Fan Milk\Fan Milk\obj\Debug\Fan Milk.pdb
